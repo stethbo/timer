@@ -12,7 +12,7 @@ import threading
 
 
 # frontend design file .kv
-file = "C:\\Visual\\projects\\timer\\timer_kivy\\mytimer.kv"
+file = "mytimer.kv"
 Builder.load_file(file)
 
 
